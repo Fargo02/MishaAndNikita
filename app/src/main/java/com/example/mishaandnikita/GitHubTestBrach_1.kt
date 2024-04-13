@@ -1,6 +1,9 @@
 package com.example.mishaandnikita
 
-class GitHubTestBrach_1 {
+abstract class GitHubTestBrach_1 {
 
+
+
+    abstract fun misha()
 
 }
